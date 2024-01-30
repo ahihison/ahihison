@@ -77,8 +77,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ahihison/count.svg?"  />
-</div>
+
 
 ###
